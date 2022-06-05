@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @FilipIwaniuk
-- 👀 I’m interested in Full-Stack development.
-- 🌱 I’m currently learning 'React' framework with the addition of 'Spring Boot'
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align=center>Hi👋, I'm Filip</h1>
 
-<!---
-FilipIwaniuk/FilipIwaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A litlle about me...
+
+```javascript
+const filip = {
+    education: {
+        postgraduate: "MSc Cyber Security",
+        undergraduate: "BSc Software Engineering",
+    }, 
+    skills: {
+        programingLanguages: ["PHP", "JavaScript", "Java", "HTML", "CSS"],
+        frameworks: ["React", "Node", "Express", "Bootstrap"],
+        databases: ["MongoDB", "MySQL", "SQL"]
+    },
+    interests: {
+        hobbies: ["Power lifting", "Exploring", "Traveling", "PenTesting"], 
+        askMeAbout: ["Web Dev", "Fullstack Dev", "Linux!"]
+    }
+}
+```
+
+
+
