@@ -1,6 +1,6 @@
 <h1 align=center>Hi👋, I'm Filip</h1>
 
-### A litlle about me...
+### A little about me...
 
 ```javascript
 const filip = {
